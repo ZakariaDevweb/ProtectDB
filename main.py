@@ -1,7 +1,7 @@
 
 def main():
     print("Coucou les potoooooos!")
-    print("On va tout péter!!")
+    print("Petit commit au hasard")
 
 if __name__ == "__main__":
     main()
